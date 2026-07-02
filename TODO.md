@@ -1,6 +1,7 @@
 # Mega Produção
 ## Versão 01
-
+-[x]criar repositorio
+-[x]configurar git
 -[]Criar Layout principal(duas paginas)
     PAGINMA 1
         -[]Criar menu lateral
